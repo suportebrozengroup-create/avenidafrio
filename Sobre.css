@@ -1,0 +1,51 @@
+ .u-section-1 {
+  background-image: url("images/Capturadetela2026-02-12192524.png");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1384px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: MuseoModerno;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 30px 0 0 26px;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: MuseoModerno;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 37px 26px 30px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1141px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 874px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 656px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 413px;
+  }
+}
